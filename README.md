@@ -17,7 +17,8 @@
 
 ## Examples
 
-- [Sidebar](https://codepen.io/GreenestGoat/pen/qBGVxbv) - A  basic sidebar built using masejs.
+- [Simple Sidebar](https://codepen.io/GreenestGoat/pen/qBGVxbv) - A simple sidebar built using masejs.
+- [CapsLock Checker](https://codepen.io/ssamimustafa/pen/gOJooOj) - A field that informs the user whether the capslock function is currently active on their keyboard, built using masejs.
 
 ## Submitting
 
