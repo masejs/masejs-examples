@@ -13,7 +13,7 @@
 <div align="left">A list of websites and projects built using masejs.</div>
 <div align="left">
 
-[check ou masejs](https://github.com/masejs/masejs).
+[masejs](https://github.com/masejs/masejs)
 
 </div>
 
