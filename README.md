@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/discord-join-7289DA.svg?logo=discord&longCache=true&style=flat" />
 </a>
 
-<div align="left">A list of websites and projects built using masejs.</div>
+<div align="left">A list of websites and projects built using [masejs](https://github.com/masejs/masejs).</div>
 <div align="left">
 
 </div>
