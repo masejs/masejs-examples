@@ -2,8 +2,8 @@
 <img alt="Logo Banner" src="https://raw.githubusercontent.com/masejs/masejs/main/banner/banner.svg?sanitize=true"/>
 <br/>
 
-![Forks](https://img.shields.io/github/forks/masejs/masejs.svg?style=flat)
-![Stars](https://img.shields.io/github/stars/masejs/masejs.svg?style=flat)
+![Forks](https://img.shields.io/github/forks/masejs/masejs-examples.svg?style=flat)
+![Stars](https://img.shields.io/github/stars/masejs/masejs-examples.svg?style=flat)
 ![License](https://img.shields.io/badge/license-MIT-green)
 [![Donate on Kofi](https://img.shields.io/badge/Donate-Kofi-F16061?logo=ko-fi&logoColor=white)](https://ko-fi.com/brick_wall)
 <a href="https://discord.gg/Mbtnv9BN">
@@ -21,7 +21,7 @@
 
 ## Submitting
 
-Check the sumbit channel on the [discord](https://discord.gg/Mbtnv9BN) server for more info
+Check out the sumbit channel on the [discord](https://discord.gg/Mbtnv9BN) server for more info.
 
 ## Copyright and license
 
